@@ -1,3 +1,4 @@
 {
-  "item.mmirror.ruby" : "Ruby Item"
+  "item.mmirror.ruby" : "Ruby",
+  "itemGroup.mmirror.general" : "Magic Mirror"
 }
